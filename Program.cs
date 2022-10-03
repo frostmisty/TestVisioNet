@@ -6,9 +6,10 @@ namespace Program
     {
         static void Main(string[] strings)
         {
+            //Task1();
             Task2();
         }
-
+        //untuk soal nomor 1
         static void Task1()
         {
             string masukan = "";
@@ -26,7 +27,7 @@ namespace Program
             Console.WriteLine("Nilai Output = " + aa + bb);
         }
 
-
+        //untuk soal nomor  2
         static void  Task2()
         {
             int jumlaharr = 0;

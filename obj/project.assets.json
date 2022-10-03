@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\TestVisionet.csproj",
+      "projectUniqueName": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\TestVisioNet\\TestVisionet.csproj",
       "projectName": "TestVisionet",
-      "projectPath": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\TestVisionet.csproj",
+      "projectPath": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\TestVisioNet\\TestVisionet.csproj",
       "packagesPath": "C:\\Users\\01135702\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\obj\\",
+      "outputPath": "E:\\Project\\Console\\TestVisionet\\TestVisionet\\TestVisioNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\01135702\\AppData\\Roaming\\NuGet\\NuGet.Config",
